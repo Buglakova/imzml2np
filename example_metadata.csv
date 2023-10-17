@@ -1,0 +1,6 @@
+annotation_id,formula,adduct,ionFormula,ion,mz,msm,fdr,databases,moleculeNames,moleculeIds,name,structure
+C16H32O2-H,C16H32O2,-H,C16H31O2,C16H32O2-H-,255.2329146,0.892784,0.05,"[[""SwissLipids"", ""2018-02-02""]]","[""Palmitate""]","[""SLM:000000510""]",palmitic acid,"""FA 16:0"""
+C18H36O2-H,C18H36O2,-H,C18H35O2,C18H36O2-H-,283.2642147,0.931665,0.05,"[[""SwissLipids"", ""2018-02-02""]]","[""Stearate""]","[""SLM:000000826""]",stearic acid,"""FA 18:0"""
+C18H34O2-H,C18H34O2,-H,C18H33O2,C18H34O2-H-,281.2485646,0.924278,0.05,"[[""SwissLipids"", ""2018-02-02""]]","[""Oleate"", ""(9E)-octadecenoate"", ""18:1(11E)"", ""18:1(11Z)"", ""18:1(6Z)""]","[""SLM:000000418"", ""SLM:000389844"", ""SLM:000001203"", ""SLM:000001202"", ""SLM:000001201""]",octadecenoic acid,"""FA 18:1"""
+C16H30O2-H,C16H30O2,-H,C16H29O2,C16H30O2-H-,253.2172645,0.861395,0.05,"[[""SwissLipids"", ""2018-02-02""]]","[""16:1(6Z)"", ""16:1(9Z)""]","[""SLM:000000550"", ""SLM:000000411""]",hexadecenoic acid,"""FA 16:1"""
+C14H28O2-H,C14H28O2,-H,C14H27O2,C14H28O2-H-,227.2016144,0.874477,0.05,"[[""SwissLipids"", ""2018-02-02""]]","[""Myristate""]","[""SLM:000000825""]",myristic acid,"""FA 14:0"""

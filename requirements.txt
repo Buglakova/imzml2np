@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+numpy
+pyimzml==1.5.1
+pyMSpec
+cpyMSpec
+
