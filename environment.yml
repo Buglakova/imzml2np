@@ -1,0 +1,16 @@
+name: imzml2np
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+dependencies:
+  - pyimzml=1.5.1
+  - pandas
+  - matplotlib
+  - seaborn
+  - numpy
+  - pip
+  - pip:
+      - pyMSpec
+      - cpyMSpec
+      - -e .
